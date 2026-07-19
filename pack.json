@@ -1,0 +1,10 @@
+{
+  "name": "call new index limbus",
+  "description": "soundtrack from limbus company canto 9.",
+  "author": "WotanV",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
